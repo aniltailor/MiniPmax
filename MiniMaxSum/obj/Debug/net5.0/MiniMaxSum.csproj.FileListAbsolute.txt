@@ -1,0 +1,16 @@
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.exe
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.deps.json
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.runtimeconfig.json
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.runtimeconfig.dev.json
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.dll
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\bin\Debug\net5.0\ref\MiniMaxSum.dll
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.pdb
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.AssemblyInfo.cs
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.dll
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\ref\MiniMaxSum.dll
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.pdb
+C:\Users\anil_\OneDrive\Documents\dev\MiniMaxSum\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.genruntimeconfig.cache
