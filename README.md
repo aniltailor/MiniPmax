@@ -1,2 +1,2 @@
-# MiniPmax
+# MiniMax
 HackerRank MiniMax c# Solution
